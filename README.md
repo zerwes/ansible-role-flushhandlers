@@ -4,7 +4,7 @@
 
 ansible role to flush and execute pending handlers
 
-as inbetween roles you can not insert tasks, we need a smal and simple role for the task
+as inbetween roles you can not insert tasks, we need a small and simple role for the task
 
 see:
  * https://github.com/zerwes/ansible-ensure-service-running
